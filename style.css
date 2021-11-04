@@ -1,0 +1,21 @@
+body
+{
+   text-align: center;
+}
+.heading
+{
+    width:100%;
+    
+}
+.heading h2
+{
+    display: inline;
+}
+
+
+h4
+{
+    background-color: darkgrey;
+    line-height: 2;
+    margin:0px;
+}
